@@ -1,0 +1,7 @@
+driver=
+url=
+username=
+password=
+
+hibernate.dialect=
+hibernate.show_sql=
